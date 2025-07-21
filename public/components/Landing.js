@@ -46,8 +46,8 @@ export default {
           <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 md:py-28">
             <div class="text-center max-w-3xl mx-auto">
               <h1 class="text-4xl sm:text-5xl md:text-6xl font-extrabold tracking-tight text-gray-900 dark:text-white mb-6">
-                <span class="block">Intelligent apps for</span>
-                <span class="block text-teal-600 dark:text-teal-400">Hyperefficient Operations</span>
+                <span class="block">Intelligent Apps for</span>
+                <span class="block text-teal-600 dark:text-teal-400">Hyperefficient Operations!</span>
               </h1>
               <p class="text-xl text-gray-600 dark:text-gray-300 mb-10 max-w-2xl mx-auto">
                 Create modern, AI-powered apps that turn scattered data into actionable insights and automate manual work—no coding required.
